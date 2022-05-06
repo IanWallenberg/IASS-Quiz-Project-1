@@ -14,7 +14,7 @@ INSTRUCTIONS ❓ <br>
 Press Go Live to have a look, and please inspect to see the storing of points when you write your name in the high score page. If you get a high score that is ;) <br>
 
 ___________
-GENERAL GROUP INFORMATION
+GENERAL GROUP INFORMATION <br>
 A quiz project by using external Api and Firebase :-) we will use Html , CSS, Javascript, Trello, External, APi, Firebase. it is 2 weeks Project. Good Luck :-)
 
 ================ GIT Instructions: To begin, open up a terminal and create a local directory for your project Go into the newly created directory (cd command) Then try below commands git init
