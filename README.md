@@ -1,4 +1,4 @@
-# Third project - QUIZ <br>
+# Third project - QUIZ 💯<br>
 <br>
 # WHAT ❓ <br>
 My third project is a group project where we needed to use Firebase while creating a quiz, storing high score information to it.
