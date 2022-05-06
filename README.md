@@ -5,7 +5,7 @@ As we worked in the same group as the previous project (countdown timer), we wan
 So we made four quizzes instead of one. We worked in separate branches, and pair programmed / mob programmed throughout the project to check that we had a coherent style and that we learned from each other. <br>
 LEARNINGS ❓ <br>
 I got to learn again how to work in new ways with HTML and CSS, how to structure work so it's easy not just for me to understand but for others. We dove into JavaScript once again and fetched data from a database specifically for quizzes. I got to understand JavaScript more, learning about the Math object, splice method, and configurating Firebase. <br>
-This project was made during 25/10 to 11/11 (and uploaded 18/2 -2022) <br>
+This project was made during 25/10 to 11/11 <br>
 THOUGHTS ❓ <br>
 This was the most fun I had with a project up until this point. I learned about the importance of having structure in collaboration, how we can get value in what we want to do, and prioritize fun and learning on the way. <br>
 By working in a team, but also working with separate quizzes (one per person), we saw the differences and similarities in our code. And we could learn much from each other. <br>
