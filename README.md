@@ -1,4 +1,5 @@
 # Third project - QUIZ 💯<br>
+Link to project - https://multiple-quiz-project.netlify.app
 <br>
 # WHAT ❓ <br>
 My third project is a group project where we needed to use Firebase while creating a quiz, storing high score information to it.
